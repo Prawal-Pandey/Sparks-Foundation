@@ -1,5 +1,5 @@
 # Sparks-
-This website is designed to to specific amount of Money directly to the Foundation.
+This website is designed to donate specific amount of Money directly to the Foundation.
 
 HOMEPAGE
 ![HOMEPAGE](https://user-images.githubusercontent.com/87165116/129335069-ecd90af4-7d0b-43aa-bd62-338c5c02b9dd.png)
