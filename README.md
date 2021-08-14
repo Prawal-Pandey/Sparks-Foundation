@@ -22,3 +22,7 @@ Payment Done
 
 ![Payment_done](https://user-images.githubusercontent.com/87165116/129438576-fea6e5f7-94db-47c0-a096-4161c5f1ce54.jpeg)
 
+Receipt
+
+![Receipt](https://user-images.githubusercontent.com/87165116/129438985-9beec8c3-8df9-4df5-be33-ea20461c81a4.jpeg)
+
